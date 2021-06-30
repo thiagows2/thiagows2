@@ -1,4 +1,5 @@
-- Hi, I’m Thiago!
-- I’m interested in all kinds of technologies ...
-- I'm currently learning and improving in C, HTML, CSS, JavaScript...
-- I’m looking to collaborate on development projects...
+- Hi, I’m Thiago! 😁
+- 💻 I’m interested in all kinds of technologies.
+- I'm currently learning and improving in C🔙,Pyton🔚/ HTML, CSS and JavaScript 🌐.
+- 👀 I’m looking to collaborate on development projects.
+- 📫 Contact me by email: thiagomarques408@gmail.com
