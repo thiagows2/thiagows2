@@ -1,4 +1,4 @@
 - Hi, I’m Thiago!
 - 💻 I’m interested in all kinds of technologies.
-- I work with Ruby on Rails 💎
+- I’m working with Ruby on Rails 💎.
 - Contact me by email: thiagomarques408@gmail.com.
