@@ -1,4 +1,8 @@
-- Hi, I’m Thiago!
-- 💻 I’m interested in all kinds of technologies.
-- Currently, I’m working with Ruby on Rails 💎.
-- Contact me by email: thiagomarques408@gmail.com.
+<div>
+  <a href="https://github.com/thiagows2">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagows2&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagows2&layout=compact&langs_count=7&theme=dark"/>
+</div>
+  ##
+
+
