@@ -6,7 +6,7 @@
   
  ##
   
-  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ       ㅤㅤㅤ ㅤㅤㅤ<p1>Linguagens e tecnologias</p1>
+  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ       ㅤㅤㅤㅤ<p1>Linguagens e tecnologias</p1>
 <div style="display: inline_block"><br>
   ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
   <img align="center" alt="Thiago-Postgres" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
