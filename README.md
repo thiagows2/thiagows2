@@ -8,7 +8,7 @@
   
   ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ            ㅤㅤㅤㅤㅤ<p1><strong>Linguagens e tecnologias</strong></p1>
 <div style="display: inline_block"><br>
-  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
   <img align="center" alt="Thiago-Rails" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain.svg">
   <img align="center" alt="Thiago-Ruby" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg">
   <img align="center" alt="Thiago-Vuejs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
